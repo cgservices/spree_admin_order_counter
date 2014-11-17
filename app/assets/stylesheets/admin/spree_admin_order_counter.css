@@ -1,0 +1,8 @@
+div.admin_greyed {
+	background-color: #ddd;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	color: #444;
+	font-size: 90%;
+	padding: 7px 10px;
+}

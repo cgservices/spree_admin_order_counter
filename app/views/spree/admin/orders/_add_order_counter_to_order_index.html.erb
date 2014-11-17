@@ -1,0 +1,4 @@
+<div class="field">
+  <%= label_tag nil, t(:order_counter) %>
+  <div class="admin_greyed"><%= @search.result(distinct: true).includes([:user, :shipments, :payments]).count %></div>
+</div>
