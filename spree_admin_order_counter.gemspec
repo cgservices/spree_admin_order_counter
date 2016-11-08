@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_admin_order_counter'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.summary     = 'Add order counter to spree admin'
   s.description = 'Add order counter to spree admin'
   s.required_ruby_version = '>= 1.9.3'
